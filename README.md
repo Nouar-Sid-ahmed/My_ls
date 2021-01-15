@@ -4,7 +4,7 @@ Copy the basic function of the ls in bash.
 
 ## Description
 
-For the Project by our school ETNA, we had to do a program in c that copy the ls function in bash with some flags in option.
+For the Project by our school ETNA, we had one week to do a program in c that copy the ls function in bash with some flags in option.
 
 ## Getting Started
 
