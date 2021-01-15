@@ -39,9 +39,7 @@ make
 ```
 ./my_ls -1
 ```
-```
-./my_ls -A
-```
+
 * You can also read a specific folder
 ```
 ./my_ls lib/
